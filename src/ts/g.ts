@@ -339,6 +339,7 @@ function calculateUserAge(birthday: Date): number {
 }
 */
 
+///// Nya koden /////
 class User {
   constructor(
     public name: string,
